@@ -1,0 +1,16 @@
+"Hydro Consumption (kWh)" = "Consommation d'électricité (kWh)";
+"On-Peak Usage" = "Consommation en période de pointe";
+"Off-Peak Usage" = "Consommation en période creuse";
+"Mid-Peak Usage" = "Consommation en période intermédiaire";
+"Consumption Charges" = "Charges de consommation";
+"Regulatory Charges" = "Charges réglementaires";
+"Bill Amount" = "Montant de la facture";
+"Bilal Samoon" = "Bilal Samoon";
+"On-Peak Charge: %@" = "Charge en période de pointe: %@";
+"Off-Peak Charge: %@" = "Charge en période creuse: %@";
+"Mid-Peak Charge: %@" = "Charge en période intermédiaire: %@";
+"Total Consumption Charges: %@" = "Charges de consommation totales: %@";
+"HST (13%): %@" = "TVH (13%) : %@";
+"Provincial Rebate (8%): %@" = "Rabais provincial (8%) : %@";
+"Total Regulatory Charges: %@" = "Charges réglementaires totales: %@";
+"Net Bill Amount: %@" = "Montant net de la facture: %@";
